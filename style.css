@@ -18,3 +18,7 @@
     padding: none;
     border: none;
 }
+
+.checked {
+    color: orange;
+}
