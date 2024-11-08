@@ -1,0 +1,20 @@
+/* body {
+  background-image: url('images/bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+.navbar{
+    background:transparent;;
+}
+#center_text {
+    text-align: center;
+}
+
+#first_section {
+    height: 700px;
+    background-image: url('images/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: none;
+    border: none;
+}
