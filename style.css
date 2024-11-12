@@ -19,6 +19,11 @@
     border: none;
 }
 
+.card {
+    background-color: lightgreen;
+    border-radius: 50;
+}
+
 .checked {
     color: orange;
 }
